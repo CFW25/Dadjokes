@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dadjokes/static/css/main.0f375535.chunk.css",
+    "main.js": "/Dadjokes/static/js/main.93850ddb.chunk.js",
+    "main.js.map": "/Dadjokes/static/js/main.93850ddb.chunk.js.map",
+    "runtime-main.js": "/Dadjokes/static/js/runtime-main.1310a8dd.js",
+    "runtime-main.js.map": "/Dadjokes/static/js/runtime-main.1310a8dd.js.map",
+    "static/js/2.78ebaecd.chunk.js": "/Dadjokes/static/js/2.78ebaecd.chunk.js",
+    "static/js/2.78ebaecd.chunk.js.map": "/Dadjokes/static/js/2.78ebaecd.chunk.js.map",
+    "index.html": "/Dadjokes/index.html",
+    "precache-manifest.dc70855701d24ef93ff69afe0a4746f8.js": "/Dadjokes/precache-manifest.dc70855701d24ef93ff69afe0a4746f8.js",
+    "service-worker.js": "/Dadjokes/service-worker.js",
+    "static/css/main.0f375535.chunk.css.map": "/Dadjokes/static/css/main.0f375535.chunk.css.map",
+    "static/js/2.78ebaecd.chunk.js.LICENSE.txt": "/Dadjokes/static/js/2.78ebaecd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Dadjokes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1310a8dd.js",
+    "static/js/2.78ebaecd.chunk.js",
+    "static/css/main.0f375535.chunk.css",
+    "static/js/main.93850ddb.chunk.js"
+  ]
+}
